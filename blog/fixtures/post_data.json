@@ -1,0 +1,146 @@
+[
+{
+    "model": "blog.post",
+    "pk": 1,
+    "fields": {
+        "title": "Django 1.0 Release",
+        "slug": "django-10-released",
+        "text": "THE Web Framework.",
+        "pub_date": "2008-09-03",
+        "author": 1,
+        "tags": [
+            3,
+            11,
+            15
+        ],
+        "startups": []
+    }
+},
+{
+    "model": "blog.post",
+    "pk": 2,
+    "fields": {
+        "title": "Simple Robots for Sale",
+        "slug": "simple-robots-for-sale",
+        "text": "If only they would make spider bots.",
+        "pub_date": "2011-02-21",
+        "author": 1,
+        "tags": [
+            1,
+            11
+        ],
+        "startups": [
+            7
+        ]
+    }
+},
+{
+    "model": "blog.post",
+    "pk": 3,
+    "fields": {
+        "title": "Django Training",
+        "slug": "django-training",
+        "text": "Want to learn Django in a class setting? JamBon Software offers hands-on courses in the web framework. Just looking for help? They'll consult on your web and mobile products and can also be hired for end-to-end development.",
+        "pub_date": "2013-01-18",
+        "author": 1,
+        "tags": [
+            3,
+            14
+        ],
+        "startups": [
+            3,
+            4
+        ]
+    }
+},
+{
+    "model": "blog.post",
+    "pk": 4,
+    "fields": {
+        "title": "Django 1.8 Release",
+        "slug": "django-18-released",
+        "text": "Django 1.8 is Django's newest version, and the next version slated for Long-Term Support (LTS). LTS means that Django 1.8 will be supported for longer than regular versions: Django core developers will specify a single release as LTS, and then continue to update that version regardless of the usual release cycle. This will last until they pick a new LTS version, which typically happens every 3 to 4 years. The last LTS version was 1.4, released in March 2012, which will stop being supported in October 2015.\n\nFor more information: \nhttp://andrewsforge.com/article/upgrading-django-to-17/part-1-introduction-and-django-releases/",
+        "pub_date": "2015-04-01",
+        "author": 1,
+        "tags": [
+            3,
+            11,
+            15
+        ],
+        "startups": []
+    }
+},
+{
+    "model": "blog.post",
+    "pk": 6,
+    "fields": {
+        "title": "New Django Version",
+        "slug": "new-django-version",
+        "text": "Better integration with HTML Boilerstrap 9.",
+        "pub_date": "2020-05-15",
+        "author": 1,
+        "tags": [
+            3,
+            11,
+            15
+        ],
+        "startups": []
+    }
+},
+{
+    "model": "blog.post",
+    "pk": 8,
+    "fields": {
+        "title": "New vr Headset",
+        "slug": "new-vr-headset",
+        "text": "A new vr headset has just been released which features the most anticipated eye-ball tracking which has masssive implications.",
+        "pub_date": "2019-10-17",
+        "author": 14,
+        "tags": [
+            1,
+            2,
+            4,
+            11
+        ],
+        "startups": [
+            1
+        ]
+    }
+},
+{
+    "model": "blog.post",
+    "pk": 9,
+    "fields": {
+        "title": "arachnobots get series A",
+        "slug": "arachnobots-get-series-a",
+        "text": "Arachnobots, the hottest vr startup have just gotten a series A funding of 100 milliion dollars",
+        "pub_date": "2019-10-17",
+        "author": 14,
+        "tags": [
+            1,
+            2,
+            11
+        ],
+        "startups": [
+            1
+        ]
+    }
+},
+{
+    "model": "blog.post",
+    "pk": 12,
+    "fields": {
+        "title": "Something Something Flutterwave",
+        "slug": "something-something-flutterwave",
+        "text": "Typing some random text. Typing some random\r\ntext. Typing some random text",
+        "pub_date": "2021-08-31",
+        "author": 14,
+        "tags": [
+            20
+        ],
+        "startups": [
+            9
+        ]
+    }
+}
+]

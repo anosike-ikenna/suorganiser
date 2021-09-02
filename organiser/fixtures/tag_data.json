@@ -1,0 +1,138 @@
+[
+{
+    "model": "organiser.tag",
+    "pk": 1,
+    "fields": {
+        "name": "augmented reality",
+        "slug": "augmented-reality"
+    }
+},
+{
+    "model": "organiser.tag",
+    "pk": 2,
+    "fields": {
+        "name": "big data",
+        "slug": "big-data"
+    }
+},
+{
+    "model": "organiser.tag",
+    "pk": 3,
+    "fields": {
+        "name": "django",
+        "slug": "django"
+    }
+},
+{
+    "model": "organiser.tag",
+    "pk": 4,
+    "fields": {
+        "name": "education",
+        "slug": "education"
+    }
+},
+{
+    "model": "organiser.tag",
+    "pk": 5,
+    "fields": {
+        "name": "ipython",
+        "slug": "ipython"
+    }
+},
+{
+    "model": "organiser.tag",
+    "pk": 6,
+    "fields": {
+        "name": "javascript",
+        "slug": "javascript"
+    }
+},
+{
+    "model": "organiser.tag",
+    "pk": 7,
+    "fields": {
+        "name": "jupyter",
+        "slug": "jupyter"
+    }
+},
+{
+    "model": "organiser.tag",
+    "pk": 9,
+    "fields": {
+        "name": "node.js",
+        "slug": "node-js"
+    }
+},
+{
+    "model": "organiser.tag",
+    "pk": 10,
+    "fields": {
+        "name": "php",
+        "slug": "php"
+    }
+},
+{
+    "model": "organiser.tag",
+    "pk": 11,
+    "fields": {
+        "name": "python",
+        "slug": "python"
+    }
+},
+{
+    "model": "organiser.tag",
+    "pk": 12,
+    "fields": {
+        "name": "ruby on rails",
+        "slug": "ruby-on-rails"
+    }
+},
+{
+    "model": "organiser.tag",
+    "pk": 13,
+    "fields": {
+        "name": "ruby",
+        "slug": "ruby"
+    }
+},
+{
+    "model": "organiser.tag",
+    "pk": 14,
+    "fields": {
+        "name": "video games",
+        "slug": "video-games"
+    }
+},
+{
+    "model": "organiser.tag",
+    "pk": 15,
+    "fields": {
+        "name": "web",
+        "slug": "web"
+    }
+},
+{
+    "model": "organiser.tag",
+    "pk": 16,
+    "fields": {
+        "name": "zend",
+        "slug": "zend"
+    }
+},
+{
+    "model": "organiser.tag",
+    "pk": 19,
+    "fields": {
+        "name": "weexle",
+        "slug": "weexle"
+    }
+},
+{
+    "model": "organiser.tag",
+    "pk": 20,
+    "fields": {
+        "name": "fintech",
+        "slug": "fintech"
+    }
+}
+]
